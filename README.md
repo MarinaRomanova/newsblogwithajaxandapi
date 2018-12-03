@@ -1,4 +1,4 @@
-<h2>News Blog with AJAX</h2>
+<h2>Single Page News Blog with AJAX</h2>
 <ul>
   <li>ajax,</li> 
   <li>json,</li> 
